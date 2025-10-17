@@ -55,6 +55,8 @@ Model graph:
 Calculation: 
 
 Open circuit characteristics
+![open circuit diagram exp-2](https://github.com/user-attachments/assets/d3ce2b5a-b1b4-4c8a-a262-669bd0a1aa00)
+
 
   
 Load Characteristics:
